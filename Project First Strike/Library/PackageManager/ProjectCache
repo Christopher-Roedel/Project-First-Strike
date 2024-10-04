@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638628227165061437
-    m_Hash: 3993756998
+      ticks: 638636506970041709
+    m_Hash: 2275109844
   m_LockFileStatus:
     m_FilePath: C:/Users/roede/Desktop/Project-First-Strike/Project First Strike/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638628227580233415
-    m_Hash: 1056856744
+      ticks: 638636506970046710
+    m_Hash: 785044530
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -118,9 +118,11 @@ m_ResolvedPackages:
     - 2.4.3
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     compatible:
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     verified: 2.4.4
   dependencies: []
   resolvedDependencies: []
